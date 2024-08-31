@@ -1,6 +1,8 @@
 # ItemListApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+The sorting is added for the ID and TITLE in the table,there will be invisible arrow for both once you go near ID header the arrow is visible thus the sorting can be done .
+For filtering the placeholder is added we can search by ID or words.
 
 ## Development server
 
